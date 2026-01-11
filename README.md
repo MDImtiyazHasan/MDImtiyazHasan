@@ -184,7 +184,7 @@
 
 ## 🐍 Contribution Snake
 
-<img src="https://raw.githubusercontent.com/MDImtiyazHasan/MDImtiyazHasan/output/github-contribution-grid-snake.svg" alt="snake animation" style="max-width: 100%;">
+![snake gif](https://github.com/MDImtiyazHasan/MDImtiyazHasan/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
