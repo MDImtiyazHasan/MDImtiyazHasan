@@ -1,24 +1,16 @@
 ### Hi there 👋
 [![](https://img.shields.io/badge/-@MDImtiyazHasan-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/MDImtiyazHasan)](https://twitter.com/MDImtiyazHasan)
 
-<h3 align="center">Frontend Developer | Full-Stack Learner from Bangladesh 🇧🇩</h3>
-<h4 align="center">Passionate about building modern web applications with JavaScript & React</h4>
+<h3 align="center">Frontend Developer | Full-Stack Learner from Bangladesh</h3>
+<h4 align="center">Passionate about building modern web applications</h4>
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=MDImtiyazHasan&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
-
 <p align="center">
-  <a href="https://github.com/MDImtiyazHasan/beautiful-github-homepage">
-    <picture>
-      <img align="" height='150px' src="https://github-readme-stats.vercel.app/api?username=MDImtiyazHasan&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="Imtiyaz's GitHub Stats" />
-    </picture>
-  </a>
-  <a href="https://github.com/MDImtiyazHasan/beautiful-github-homepage">
-    <picture>
-      <img align="" height='150px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=MDImtiyazHasan&hide_title=false&layout=compact&theme=tokyonight&count_private=true&hide_border=true" />
-    </picture>
-  </a>
+  <img height='180px' src="https://github-readme-stats.vercel.app/api?username=MDImtiyazHasan&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="Imtiyaz's GitHub Stats" />
+  <img height='180px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=MDImtiyazHasan&hide_title=false&layout=compact&theme=tokyonight&count_private=true&hide_border=true" alt="Top Languages" />
 </p>
 
 <br>
@@ -54,17 +46,7 @@
 
 <br/>
 
-<!-- Social badges section -->
-<p align="center">
-  <a href="https://github.com/MDImtiyazHasan?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/MDImtiyazHasan?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/>
-  </a>
-  <a href="https://github.com/MDImtiyazHasan?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/MDImtiyazHasan?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
-  </a>
-</p>
 
-<br/>
 
 <details open> 
   <summary><h2>🛠️ My Favorite Tools</h2></summary>
@@ -96,10 +78,8 @@
 
   <h3>🗄️ Databases and Cloud Hosting</h3>
 
-  <p>
-      <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white"></a>
-      <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00f.svg?logo=mysql&logoColor=white"></a>
-      <a href="#"><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-4ea94b.svg?logo=mongodb&logoColor=white"></a>
+  <p>   
+      <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00f.svg?logo=mysql&logoColor=white"></a>   
   </p>
 
   <h3>💻 Software and Tools</h3>
@@ -131,14 +111,7 @@
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
     <img alt="MDImtiyazHasan's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=MDImtiyazHasan&bg_color=1F222E&color=F8D866&line=0e75b6&point=FFFFFF&hide_border=true" />
   </a>
-
-  <h3>🔥 Streak Stats</h3>
-
-  <p align="center">
-    <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="MDImtiyazHasan's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=MDImtiyazHasan&theme=tokyonight&hide_border=true"/>
-    </a>
-  </p>
+  
 
 </details>
 
@@ -247,24 +220,9 @@
   <a href="https://github.com/MDImtiyazHasan?tab=repositories">
     <img src="https://github-readme-stats-one-bice.vercel.app/api?username=MDImtiyazHasan&theme=tokyonight&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" width="48%" alt="@MDImtiyazHasan's github-readme-stats"/>
   </a>
-  <a href="https://github.com/MDImtiyazHasan?tab=stars">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=MDImtiyazHasan&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="48%" alt="@MDImtiyazHasan's github-readme-streak-stats"/>
-  </a>
 </p>
 
-<!-- activity graph start -->
-<p align="center">
-    <a href="https://github.com/MDImtiyazHasan">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=MDImtiyazHasan&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="95%" alt="activity graph">
-    </a>
-</p>
-<!-- activity graph end -->
 
-<p align="center">
-  <a href="https://github.com/MDImtiyazHasan?tab=achievements">
-    <img src="https://github-profile-trophy.vercel.app/?username=MDImtiyazHasan&theme=tokyonight&no-frame=true&column=3&row=2" width="50%" alt="@MDImtiyazHasan's trophy stats"/>
-  </a>
-</p>
 
 ## 🐍 Contribution Snake
 
@@ -272,9 +230,7 @@
 
 ---
 
-<p align="center">
-  <img src="https://profile-counter.glitch.me/MDImtiyazHasan/count.svg" alt="Visitor Count" />
-</p>
+
 
 <p align="center">
   <b>📫 How to reach me:</b><br>
