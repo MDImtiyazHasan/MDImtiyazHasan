@@ -5,14 +5,6 @@
 <h4 align="center">Passionate about building modern web applications</h4>
 
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=MDImtiyazHasan&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-</p>
-<p align="center">
-  <img height='180px' src="https://github-readme-stats.vercel.app/api?username=MDImtiyazHasan&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="Imtiyaz's GitHub Stats" />
-  <img height='180px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=MDImtiyazHasan&hide_title=false&layout=compact&theme=tokyonight&count_private=true&hide_border=true" alt="Top Languages" />
-</p>
-
 <br>
 
 - 😄 I have interests in **Full-Stack Development, Web3, and AI Integration**
@@ -31,24 +23,24 @@
 
 <!-- Social icons section -->
 <p align="center">
-  <a href="https://github.com/MDImtiyazHasan">
-    <img width="32px" alt="GitHub" title="GitHub" src="https://i.imgur.com/OViZO8J.png"/>
+  <a href="https://github.com/MDImtiyazHasan" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="mailto:imtiyazhasan.cs@gmail.com">
-    <img width="32px" alt="Email" title="Email" src="https://i.imgur.com/OXZM1L6.png"/>
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://fluid-event-587863.framer.app/">
-    <img width="32px" alt="Portfolio" title="Portfolio" src="https://i.imgur.com/mVm29vK.png">
+  <a href="https://fluid-event-587863.framer.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio"/>
   </a>
 </p>
+<br/>
+
 
 <br/>
 
 
 
-<details open> 
+
   <summary><h2>🛠️ My Favorite Tools</h2></summary>
 
   <h3>👨‍💻 Programming and Markup Languages</h3>
@@ -68,7 +60,6 @@
   <h3>🧰 Frameworks and Libraries</h3>
 
   <p>
-      <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"></a>
       <a href="#"><img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B.svg?logo=flutter&logoColor=white"></a>
       <a href="#"><img alt="Spring" src="https://img.shields.io/badge/Spring-6DB33F.svg?logo=spring&logoColor=white"></a>
       <a href="#"><img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00.svg?logo=TensorFlow&logoColor=white"></a>
@@ -82,48 +73,23 @@
       <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00f.svg?logo=mysql&logoColor=white"></a>   
   </p>
 
-  <h3>💻 Software and Tools</h3>
+<h3>💻 Software and Tools</h3>
 
-  <p>
-      <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
-      <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717.svg?logo=github&logoColor=white"></a>
-      <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
-      <a href="#"><img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E.svg?logo=figma&logoColor=white"></a>
-      <a href="#"><img alt="Unreal Engine" src="https://img.shields.io/badge/Unreal%20Engine-313131.svg?logo=unreal-engine&logoColor=white"></a>
-  </p>
-</details>
+<p>
+    <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
+    <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717.svg?logo=github&logoColor=white"></a>
+    <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
+    <a href="#"><img alt="IntelliJ IDEA" src="https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?logo=intellij-idea&logoColor=white"></a>
+    <a href="#"><img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E.svg?logo=figma&logoColor=white"></a>
+    <a href="#"><img alt="Canva" src="https://img.shields.io/badge/Canva-00C4CC.svg?logo=canva&logoColor=white"></a>
+</p>
 
-<details> 
-  <summary><h2>📊 Github Stats and Activity</h2></summary>
-
-  <h3>💻 GitHub Profile Stats</h3>
-
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img alt="MDImtiyazHasan's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=MDImtiyazHasan&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=1F222E&title_color=0e75b6&icon_color=F8D866" height="192px"/>
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img alt="MDImtiyazHasan's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MDImtiyazHasan&langs_count=8&layout=compact&theme=tokyonight&hide_border=true&bg_color=1F222E&title_color=0e75b6&icon_color=F8D866" height="192px"/>
-  </a>
-  <br/>
-
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-  
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img alt="MDImtiyazHasan's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=MDImtiyazHasan&bg_color=1F222E&color=F8D866&line=0e75b6&point=FFFFFF&hide_border=true" />
-  </a>
-  
-
-</details>
 
 # 💻 My favorite tools and technologies
 
 <div style="display: flex; align-items: flex-start; align: center">
 <table align="center">
   <tr>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" />
-      <br>React
-    </td>
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
       <br>JavaScript
@@ -169,10 +135,6 @@
       <br>Java
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=flutter" width="48" height="48" alt="Flutter" />
-      <br>Flutter
-    </td>
-    <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=spring" width="48" height="48" alt="Spring" />
       <br>Spring
     </td>
@@ -182,10 +144,6 @@
     </td>
   </tr>
  <tr>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
-      <br>MongoDB
-    </td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VsCode" />
       <br>VsCode
@@ -207,8 +165,8 @@
       <br>PyTorch
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=unreal" width="48" height="48" alt="Unreal" />
-      <br>Unreal
+        <img src="https://skillicons.dev/icons?i=flutter" width="48" height="48" alt="Flutter" />
+      <br>Flutter
     </td>
  </tr>
 </table>
