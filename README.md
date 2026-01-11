@@ -2,8 +2,6 @@
 
 ### A passionate frontend developer from Bangladesh
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=MDImtiyazHasan&label=Profile views&color=0e75b6&style=flat" alt="MDImtiyazHasan" /> </p>
-
 - 🔭 I'm currently working on **a FullStack javascript Project**
 
 - 🌱 I'm currently learning **React,Spring Boot**
