@@ -1,31 +1,46 @@
-# Hi 👋, I'm Md.Imtiyaz Hasan
+<h1 align="center">Hi 👋, I'm Md. Imtiyaz Hasan</h1>
+<h3 align="center">A passionate frontend developer from Bangladesh 🇧🇩</h3>
 
-### A passionate frontend developer from Bangladesh
-
-- 🔭 I'm currently working on **a FullStack javascript Project**
-
-- 🌱 I'm currently learning **React,Spring Boot**
-
-- 📫 How to reach me **imtiyazhasan.cs@gmail.com**
-
-- 👨‍💻 All of my projects are available at **[https://fluid-event-587863.framer.app/](https://fluid-event-587863.framer.app/)**
-
-- 📄 Know about my experiences **[https://drive.google.com/file/d/1Xe8igIP7RvZibKSgf7RMhsDE9N5sDpkx/view?usp=drive_link](https://drive.google.com/file/d/1Xe8igIP7RvZibKSgf7RMhsDE9N5sDpkx/view?usp=drive_link)**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://github.com/MDImtiyazHasan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="MDImtiyazHasan" height="30" width="40" /></a>
+<p align="center">
+  🔭 Currently working on <b>Full-Stack JavaScript projects</b><br/>
+  🌱 Currently learning <b>React & Spring Boot</b><br/>
+  📫 Reach me at <b>imtiyazhasan.cs@gmail.com</b>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/arduino" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=arduino" alt="arduino" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/cplusplus" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=cpp" alt="cplusplus" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/csharp" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=cs" alt="csharp" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/css3" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/figma" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=figma" alt="figma" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/flutter" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=flutter" alt="flutter" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/framer" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/framer" alt="framer" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/html5" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/jasmine" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jasmine/jasmine-original.svg" alt="jasmine" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/java" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=java" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/jupyter" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/keras" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" alt="keras" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/matlab" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=matlab" alt="matlab" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/matplotlib" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" alt="matplotlib" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mysql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/numpy" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/pandas" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/php" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=php" alt="php" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/postman" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postman" alt="postman" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/pytorch" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=pytorch" alt="pytorch" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/spring" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=spring" alt="spring" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/tensorflow" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=tensorflow" alt="tensorflow" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/unreal" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=unreal" alt="unreal" width="40" height="40"/> </a></p>
+<p align="center">
+  👨‍💻 Portfolio: <a href="https://fluid-event-587863.framer.app/" target="_blank">fluid-event-587863.framer.app</a><br/>
+  📄 Resume: <a href="https://drive.google.com/file/d/1Xe8igIP7RvZibKSgf7RMhsDE9N5sDpkx/view" target="_blank">View Resume</a>
+</p>
 
-### 📊 GitHub Stats
+---
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=MDImtiyazHasan&show_icons=true&locale=en&layout=compact)
+## 🌐 Connect with me
+<p align="left">
+<a href="https://github.com/MDImtiyazHasan" target="_blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" height="35" width="45"/>
+</a>
+</p>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MDImtiyazHasan&show_icons=true&locale=en)
+---
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MDImtiyazHasan)
+## 🛠️ Languages & Tools
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,react,flutter,java,spring,php,mysql,git,figma,arduino,cpp,cs,python,tensorflow,pytorch,unreal&perline=9" />
+</p>
 
+---
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MDImtiyazHasan&show_icons=true&theme=tokyonight" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MDImtiyazHasan&theme=tokyonight" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MDImtiyazHasan&layout=compact&theme=tokyonight" height="160"/>
+</p>
+
+---
+
+⭐ From [MDImtiyazHasan](https://github.com/MDImtiyazHasan)
