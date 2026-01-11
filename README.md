@@ -175,9 +175,8 @@
 <br><br>
 
 <p align="center">
-  <a href="https://github.com/MDImtiyazHasan?tab=repositories">
-    <img src="https://github-readme-stats-one-bice.vercel.app/api?username=MDImtiyazHasan&theme=tokyonight&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" width="48%" alt="@MDImtiyazHasan's github-readme-stats"/>
-  </a>
+  <img src="https://github-readme-stats-9z7n.vercel.app/api?username=MDImtiyazHasan&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&exclude_repo=github-readme-stats" width="48%" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats-9z7n.vercel.app/api/top-langs/?username=MDImtiyazHasan&hide_title=false&layout=compact&theme=tokyonight&count_private=true&hide_border=true&exclude_repo=github-readme-stats" width="48%" alt="Top Languages"/>
 </p>
 
 
